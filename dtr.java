@@ -7,6 +7,9 @@ public class dtr {
         System.out.print("Month: ");
         String month = inp.nextLine();
         int Jan = 1;
+/*  Tantan okay
+        */
+
         
         System.out.print("Name: ");
         String fullName = inp.nextLine();
